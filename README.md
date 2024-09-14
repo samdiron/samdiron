@@ -10,9 +10,6 @@ MY TWITTRE: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=whit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samdiron&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdiron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samdiron&theme=default&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=samdiron&icon=8&color=10)](https://visitcount.itsvg.in)
 
