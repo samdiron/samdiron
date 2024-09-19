@@ -11,6 +11,8 @@ MY TWITTRE: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=whit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdiron&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samdiron&icon=8&color=10)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=samdiron&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
