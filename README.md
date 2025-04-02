@@ -1,7 +1,6 @@
 # 💫 About Me:
-i'm currently working on Connie <br>it's a server/client network currenly it's just for <br>local networks and in very early dev i you want to <br>collaborate and you can use rust or zig you can and plz do;<br>i know rust python and C (not good at it);<br>and i want to learn zig ;<br>facts about me : <br>i know 3 languages(English-Arabic-japanese(not good))<br>i live in the country that's in Africa and Asia <br>
+i'm currently working on Connie <br>it's a server/client network currenly it's just for <br>local networks and in very early dev if you want to <br>collaborate and you can use rust or c you can and plz do;<br>i know rust python and C (not good at it);<br>facts about me : <br>i know 3 languages(English-Arabic-japanese(not good))<br>i live in the country that's in Africa and Asia <br>
 
-MY TWITTRE: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sam_Tadro) 
 
 # 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)  
